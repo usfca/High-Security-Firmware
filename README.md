@@ -26,7 +26,7 @@ A proof-of-concept development in a memory safe language of quantum safe cryptog
 * [3 Min High Level - What is Secure Boot](https://www.youtube.com/watch?v=jjHCgNmMclE)
     - Need to protect computer when booting up
     - Ensures only authorized software can run 
-* Paul's Secure Boot Design Example
+* [Paul's Secure Boot Design Example](https://opentitan.org/book/doc/security/specs/secure_boot/)
   - ROM
     - Read-only memory: cannot be updated after manufactures
     - simple minimal setup and authenticates ROM_EXT
@@ -38,4 +38,7 @@ A proof-of-concept development in a memory safe language of quantum safe cryptog
     - Checks the signature of next boot stage
   - BL0
     - Bootloader signed by Silicon Owner
+   
+# Rust Cheat Sheet
+* https://docs.google.com/document/d/1kQidzAlbqapu-WZTuw4Djik0uTqMZYyiMXTM9F21Dz4/edit?lid=75147#heading=h.gjdgxs 
 
