@@ -39,6 +39,13 @@ A proof-of-concept development in a memory safe language of quantum safe cryptog
   - BL0
     - Bootloader signed by Silicon Owner
    
-# Rust Cheat Sheet
-* https://docs.google.com/document/d/1kQidzAlbqapu-WZTuw4Djik0uTqMZYyiMXTM9F21Dz4/edit?lid=75147#heading=h.gjdgxs 
+# Rust Cheat Sheet and Resources for Learning
+* [Rust cheat sheet](https://docs.google.com/document/d/1kQidzAlbqapu-WZTuw4Djik0uTqMZYyiMXTM9F21Dz4/edit?lid=75147#heading=h.gjdgxs)
+* [The Rust handbook](https://doc.rust-lang.org/book/index.html)
+* [Building a command line tool in Rust](https://rust-cli.github.io/book/index.html)
+* Rust courses:
+  - https://www.rust-lang.org/learn
+  - https://rustlings.cool/
+  - https://google.github.io/comprehensive-rust/index.html
+
 
