@@ -47,5 +47,31 @@ A proof-of-concept development in a memory safe language of quantum safe cryptog
   - https://www.rust-lang.org/learn
   - https://rustlings.cool/
   - https://google.github.io/comprehensive-rust/index.html
+  - Learn Rust Programming - Complete Course Youtube:
+    https://www.youtube.com/watch?v=BpPEoZW5IiY
 
+# Implementing Secure Boot:
+   - Reading: https://www.design-reuse.com/articles/46847/implementing-secure-boot-in-your-next-design.html
+   - Reading: https://learn.microsoft.com/en-us/windows-hardware/design/device-experiences/oem-secure-boot
+   - YouTube Turtorial:  https://www.youtube.com/watch?v=recK_U4vjhw
 
+# Building a CLI tool with Rust
+ - https://medium.com/@aergonaut/building-a-cli-tool-with-rust-2515ed2ddb28
+ 
+# Implement a hashing algorithm in Rust as a CLI tool
+ - Example Github Repo:
+    https://github.com/vschwaberow/rustgenhash
+ - How to create a custom hash function in Rust:
+    https://stackoverflow.com/questions/77588838/how-to-create-a-custom-hash-function-in-rust
+ - Hashting Guide in Rust:
+    https://rust-lang-nursery.github.io/rust-cookbook/cryptography/hashing.html
+ - The Rust community’s crate registry:
+    https://crates.io/crates/chksum-cli/0.3.2
+
+# Implementing Digital Signatures in Rust
+  - Article: Implementing Digital Signatures in Rust:
+    https://medium.com/fcats-blockchain-incubator/implementing-digital-signatures-in-rust-1a42c64c10a
+  - RustCrypto: Digital Signature Algorithms: 
+    https://crates.io/crates/signature
+  - Rust Cypograpgy includying high-value Cyprographic libraries in Rust & more 
+    https://cryptography.rs
