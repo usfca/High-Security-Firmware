@@ -76,6 +76,9 @@ A proof-of-concept development in a memory safe language of quantum safe cryptog
   - Rust Cypograpgy includying high-value Cyprographic libraries in Rust & more 
     https://cryptography.rs
 
+# Rust cli for hash a file using CLI tool + testing cryptographic algorithms
+- https://github.com/aklie8/crypto_file_hash
+
 # Rust cli for key generation, key encryption, and wallet 
 - https://github.com/blaydeomura/rust_cli_2
 
