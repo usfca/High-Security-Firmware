@@ -75,3 +75,9 @@ A proof-of-concept development in a memory safe language of quantum safe cryptog
     https://crates.io/crates/signature
   - Rust Cypograpgy includying high-value Cyprographic libraries in Rust & more 
     https://cryptography.rs
+
+# Rust cli for key generation, key encryption, and wallet 
+- https://github.com/blaydeomura/rust_cli_2
+
+# Simple Rust cli for signature verification implementation
+- https://github.com/blaydeomura/basic_ecdsa_sig
