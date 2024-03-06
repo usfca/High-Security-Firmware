@@ -1,6 +1,9 @@
 # High-Security-Firmware
 A proof-of-concept development in a memory safe language of quantum safe cryptographic security services and infrastructure for secure boot, firmware signing and self attestations.
 
+# Shared repo where all code is done:
+* https://github.com/blaydeomura/high_security_firmaware/tree/main
+
 
 # Quantum Safe Algorithm Repos to Look At
 * [Open Quantum Safe](https://github.com/open-quantum-safe/liboqs-rust) 
